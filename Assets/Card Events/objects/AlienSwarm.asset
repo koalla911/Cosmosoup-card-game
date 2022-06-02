@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7729498f18804eb58c12a3995c298cd7, type: 3}
+  m_Name: AlienSwarm
+  m_EditorClassIdentifier:
+  cardName: alien swarm
+  description: everyone is welcome here
+  effectDescription: 
+  influenceTime: 0
+  influenceKnowledge: 0
+  influenceMatter: 0
+  influenceAnomaly: 0
+  influenceCreation: 0
+  influenceEntropy: 0
+  objectSummon: false
+  specialEffect: false
+  summonedObject1: 
+  randomObject: false
+  summonedObject2: 
+  summonedObject3: 
+  summonedObject4: 
+  summonedObject5: 
+  objectDestruction: false
+  destroyedObjectType: 
+  objectChoose: false
+  minNumberObjectsDestroyed: 0
+  maxNumberObjectsDestroyed: 0
+  summonedObject6: 
+  effectDependency: false
+  influenceAvailable: false
+  affectedObjectByType: false
+  affectedObjectByClass: false
+  affectedObjectType: 
+  affectedObjectClass: 
+  affectFewObjects: false
+  affectedObjectsNumber: 0
+  affectAllMatchingObgects: false
+  allMatchingObjectsDestroy: false
